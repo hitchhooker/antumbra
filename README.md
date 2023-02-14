@@ -1,6 +1,6 @@
 <picture>
-    <source srcset="https://github.com/hitchhooker/antumbra/blob/main/public/android-chrome-512x512.png" media="(prefers-color-scheme: dark)">
-    <img src="https://github.com/hitchhooker/antumbra/blob/main/public/android-chrome-512x512.png" alt="Antumbra Logo">
+    <source srcset="https://user-images.githubusercontent.com/15621959/218800045-2e202b32-8b6c-4ce9-8be4-2ef37ff0529d.png" media="(prefers-color-scheme: dark)">
+    <img src="https://user-images.githubusercontent.com/15621959/218800045-2e202b32-8b6c-4ce9-8be4-2ef37ff0529d.png" alt="Antumbra Logo">
 </picture>
 
 # Antumbra
